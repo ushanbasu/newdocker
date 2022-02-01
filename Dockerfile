@@ -1,4 +1,4 @@
-#git
+
 FROM alpine/git as git
 MAINTAINER ushakn2013@gmail.com
 WORKDIR /app
